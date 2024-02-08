@@ -2,6 +2,6 @@ Hi, I'm glad you stumbled upon my profile. I am a Software Developer from Munich
 
 I am primarily interested in programming software to create things. I am proficient in Java and Python, and currently, I am learning JavaScript.
 
-That's all i have to say for the moment. Thank you for reading. 
+That's all I have to say for the moment. Thank you for reading. 
 
 I look forward to hearing from you soon.
