@@ -3,3 +3,5 @@ Hi, I'm glad you stumbled upon my profile. I am a Software Developer from Munich
 I am primarily interested in programming software to create things. I am proficient in Java and Python, and currently, I am learning JavaScript.
 
 That's all I have to say for the moment. Thank you for reading. 
+
+Feel free to contact me. You will find a list of my contact data on my (GitHub Profile)[https://github.com/BlueCattleSoft].
