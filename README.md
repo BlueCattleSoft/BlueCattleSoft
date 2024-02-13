@@ -4,4 +4,4 @@ I am primarily interested in programming software to create things. I am profici
 
 That's all I have to say for the moment. Thank you for reading. 
 
-Feel free to contact me. You will find a list of my contact data on my [Here]([https://github.com/BlueCattleSoft]((https://github.com/BlueCattleSoft/BlueCattleSoft/blob/main/links.md).
+Feel free to contact me. You will find a list of my contact data on my [Here](https://github.com/BlueCattleSoft/BlueCattleSoft/blob/main/links.md).
